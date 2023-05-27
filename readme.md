@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@itssofidev.com**
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
