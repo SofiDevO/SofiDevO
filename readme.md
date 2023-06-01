@@ -11,7 +11,7 @@
 
 - I have a youtube channel about Wordpress development [SofiDev](https://www.youtube.com/@SofiDev)
 
-- 📝 I regularly write articles on [https://ansof89.com/](https://ansof89.com/)
+- 📝 I regularly write articles on [https://itssofi.dev/](https://itssofi.dev/)
 
 - 📫 How to reach me **contact@itssofidev.com**
 
