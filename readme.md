@@ -1,5 +1,21 @@
 <h1 align="center">Hi 💛, I'm Sofi Osorio</h1>
 <h3 align="left">A passionate frontend developer from Mexico</h3>
+
+- 🌱 I’m currently learning **React js**
+
+- 📝 I regularly write articles on [https://blog.itssofi.dev/](https://blog.itssofi.dev/)
+- I have a youtube channel about Wordpress development [SofiDev](https://www.youtube.com/@SofiDev)
+  
+- 📫 How to reach me **contact@itssofidev.com**
+
+
+
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/sofidev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sofidev" /></a></p><br><br>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /> </p>
 
 <img aling="center" width="350px" src="https://github.com/SofiDevO/SofiDevO/assets/102200061/af4b9305-4bc3-42e8-9421-4fd1e6ee51c6">
@@ -13,23 +29,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofidevo" alt="sofidevo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sofidevo" target="blank"><img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=for-the-badge" alt="sofidevo" /></a> </p>
-
-- 🌱 I’m currently learning **React js**
-
-- I have a youtube channel about Wordpress development [SofiDev](https://www.youtube.com/@SofiDev)
-
-- 📝 I regularly write articles on [https://itssofi.dev/](https://itssofi.dev/)
-
-- 📫 How to reach me **contact@itssofidev.com**
-
-# Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Storytelling for content creators](https://blog.itssofi.dev/copywriting/storytelling-creadores-contenido/)
-
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sofidev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sofidev" /></a></p><br><br>
 
 
 
