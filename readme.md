@@ -23,6 +23,9 @@
 </p>
 <p align="center"> <a href="https://twitter.com/itssofidev" target="_blank"><img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=for-the-badge" alt="sofidevo" /></a> </p>
   </td>
+  <td>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofidevo&show_icons=true&locale=en&layout=compact" alt="sofidevo" /></p>
+  </td>
 
   <td>
    <p align="rigth">
@@ -35,6 +38,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofidevo" alt="sofidevo" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofidevo&show_icons=true&locale=en&layout=compact" alt="sofidevo" /></p>
+
 
 <p>&nbsp;<img align="left" margin-rigth= "9px" src="https://github-readme-stats.vercel.app/api?username=sofidevo&show_icons=true&locale=en" alt="sofidevo" /></p>
