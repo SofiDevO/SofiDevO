@@ -41,3 +41,5 @@
 
 
 <p>&nbsp;<img align="left" margin-rigth= "9px" src="https://github-readme-stats.vercel.app/api?username=sofidevo&show_icons=true&locale=en" alt="sofidevo" /></p>
+<br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofidevo&show_icons=true&locale=en&layout=compact" alt="sofidevo" /></p>
