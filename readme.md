@@ -39,7 +39,11 @@
   ## Check out my Portfolio 🚀
 
 
-<a href="https://itssofi.dev/">![image](https://github.com/SofiDevO/SofiDevO/assets/102200061/1324e204-f6a5-4bbf-9ced-3531eb418c18) </a>
+<a href="https://itssofi.dev/" target="_blank">
+  <p align="center">
+<img align="rigth" width="800" src="https://github.com/SofiDevO/SofiDevO/assets/102200061/1324e204-f6a5-4bbf-9ced-3531eb418c18" alt="sofidev" />
+  </p>
+</a>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofidevo" alt="sofidevo" /></a> </p>
 
