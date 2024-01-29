@@ -39,7 +39,7 @@
   ## Check out my Portfolio 🚀
 
 
-<a href="https://itssofi.dev/" target="_blank">
+<a href="https://itssofi.dev/"target="_blank">
   <p align="center">
 <img align="rigth" width="900" src="https://github.com/SofiDevO/SofiDevO/assets/102200061/1324e204-f6a5-4bbf-9ced-3531eb418c18" alt="sofidev" />
   </p>
