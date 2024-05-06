@@ -18,9 +18,9 @@
   <td>
    <p align="center">
 <a href="https://codepen.io/sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sofidev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofidev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sofidev" height="30" width="40" /></a>
-<a href="https://discord.gg/802114375732690992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="802114375732690992" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sofidev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofidev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sofidev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sofidev" height="30" width="40" /></a>
+<a href="https://discord.com/invite/wjERezH2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="802114375732690992" height="30" width="40" /></a>
 </p>
 <p align="center"> <a href="https://twitter.com/itssofidev" target="_blank"><img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=for-the-badge" alt="sofidevo" /></a> </p>
   </td>
