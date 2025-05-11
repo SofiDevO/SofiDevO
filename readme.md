@@ -1,120 +1,91 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /> 
+  <a href="https://twitter.com/itssofidev" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=flat" alt="sofidevo" />
+
+  </a>
+</p>
+
+<h1 align="center">👋 Hi, I'm Sofi Osorio</h1>
+<h3 align="center">💻 Frontend Developer | UI Specialist | Web Craftswoman</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
-<h1 align="center">Hi 💛, I'm Sofi Osorio</h1>
-<h4 align="center">HTML, CSS, Javascript, React, Astro, Wordpress/ Sass, Styled components</h3>
-  <br>
 
-  <h3 align="center">Languages and Tools:</h3>
+![banner-gh](https://github.com/user-attachments/assets/12d1693d-9046-46d9-8c71-142d44dd2ab4)
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lit" height="40" alt="lit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/codepen/000000" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+### 🛠️ Technical Toolkit
+
+#### **Frontend Expertise**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+#### **Styling Mastery**
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
+
+#### **Backend & CMS**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+
+#### **Development Ecosystem**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+
+---
+
+### 📚 Latest Blog Insights
+<div align="center">
+  <a href="https://sofidev.blog/">
+    <img src="https://img.shields.io/badge/Read_Blog-FF6B6B?logo=hashnode&logoColor=white" alt="Blog">
+  </a>
 </div>
 
+<!-- BLOG-POST-LIST:START -->
+- [Modern CSS Techniques Every Developer Should Know](https://sofidev.blog/)
+- [Optimizing React Performance in 2024](https://sofidev.blog/)
+- [WordPress REST API: Beyond the Basics](https://sofidev.blog/)
+<!-- BLOG-POST-LIST:END -->
 
-<table align="center" >
- <tr>
-  <th>
-   <h3 align="left">Connect with me:</h3>
-  </th>
-  <th></th>
- </tr>
- <tr>
-  <td>
-   <p align="center">
-<a href="https://codepen.io/sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sofidev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sofidev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofidev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sofidev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sofidev" height="30" width="40" /></a>
-<a href="https://discord.com/invite/wjERezH2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="802114375732690992" height="30" width="40" /></a>
+---
+
+### 🏆 GitHub Highlights
+
+<div align="center">
+  <a href="https://github.com/sofidevo">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sofidevo&show_icons=true&theme=radical" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofidevo&layout=compact&theme=radical" />
+  </a>
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sofidev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://codepen.io/sofidev">
+    <img src="https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=white" alt="CodePen">
+  </a>
+  <a href="https://itssofi.dev/contact">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=react&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:hello@itssofi.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-<p align="center"> <a href="https://twitter.com/itssofidev" target="_blank"><img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=for-the-badge" alt="sofidevo" /></a> </p>
-  </td>
-  <td>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofidevo&show_icons=true&locale=en&layout=compact" alt="sofidevo" /></p>
-  </td>
 
- 
- </tr>
-</table>
+---
 
-  ## Check out my Portfolio 🚀
-
-<a href="https://itssofi.dev/"  target="_blank" >
-  <p align="center">
-<img align="rigth" width="900" src="https://github.com/SofiDevO/SofiDevO/assets/102200061/1324e204-f6a5-4bbf-9ced-3531eb418c18" alt="sofidev" />
-  </p>
-</a>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofidevo" alt="sofidevo" /></a> </p>
-
-
-
-<p>&nbsp;<img align="left" margin-rigth= "9px" src="https://github-readme-stats.vercel.app/api?username=sofidevo&show_icons=true&locale=en" alt="sofidevo" /></p>
-<br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofidevo&show_icons=true&locale=en&layout=compact" alt="sofidevo" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sofidevo&theme=onedark&row=2&column=4" alt="Trophies" />
+</p>
