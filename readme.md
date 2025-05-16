@@ -126,7 +126,7 @@
   <a href="https://codepen.io/sofidev">
     <img src="https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=white" alt="CodePen">
   </a>
-  <a href="https://itssofi.dev/contact">
+  <a href="https://itssofi.dev/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=react&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:hello@itssofi.dev">
