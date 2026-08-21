@@ -9,7 +9,7 @@
   <a href="https://twitter.com/itssofidev">
     <img src="https://img.shields.io/twitter/follow/itssofidev?style=flat&logo=x&color=white&labelColor=white&logoColor=black" alt="X (Twitter) Follow" />
   </a>
-  <a href="https://youtube.com/c/sofidev">
+  <a href="https://www.youtube.com/@SofiDev">
     <!-- Nota: Reemplaza YOUR_CHANNEL_ID por el ID real de tu canal para que el contador dinámico funcione -->
     <img src="https://img.shields.io/youtube/channel/subscribers/UC36_js-krsAHAEAWpEDhHtw?style=flat&logo=youtube&color=white&labelColor=white&logoColor=red" alt="YouTube Subscribers" />
   </a>
