@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/53822e12-a245-44a1-b359-605fc56c4c51" alt="banner-gh" width="100%" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Sofi Osorio</h1>
-<h3 align="center">💛 JavaScript & TypeScript Developer | 🎙️ Content Creator</h3>
+<h1 align="center"> Hi, I'm Sofi Osorio</h1>
+<h3 align="center"> JavaScript & TypeScript Developer | 🎙️ Content Creator</h3>
 
 <div align="center">
   <a href="https://twitter.com/itssofidev">
@@ -27,11 +27,11 @@
 
 ### 👩‍💻 About Me
 
-- 💛 **Core Focus:** Deeply focused on **JavaScript and TypeScript**, leveraging them across diverse environments and frameworks (React, Next.js, Astro, Vue, Node.js).
-- 🚀 **Building:** Creating modern, scalable architectures, SPAs, and robust tooling.
-- 🐧 **Tech Interests:** Beyond coding, I enjoy exploring Linux environments (Debian, Ubuntu), managing my home server with **Proxmox**, and experimenting with AI agents like OpenClaw.
-- ✍️ **Content Creation:** Sharing my tech journey, streaming, and writing articles on my blog. Also, proud manager of [gattetos.com](https://gattetos.com).
-- ⚡ **Hobbies:** When I'm offline, you can find me 3D printing STL models, following professional boxing, or gaming (Captain Claw, Dragon's Dogma 2)! 🥊🐉
+-  **Core Focus:** Deeply focused on **JavaScript and TypeScript**, leveraging them across diverse environments and frameworks (React, Next.js, Astro, Vue, Node.js).
+-  **Building:** Creating modern, scalable architectures, SPAs, and robust tooling.
+-  **Tech Interests:** Beyond coding, I enjoy exploring Linux environments (Debian, Ubuntu), managing my home server with **Proxmox**, and experimenting with AI agents like OpenClaw.
+-  **Content Creation:** Sharing my tech journey, streaming, and writing articles on my blog. Also, proud manager of [gattetos.com](https://gattetos.com).
+-  **Hobbies:** When I'm offline, you can find me 3D printing STL models, following professional boxing, or gaming (Captain Claw, Dragon's Dogma 2)! 🥊🐉
 
 ---
 
@@ -58,40 +58,34 @@
 
 ---
 
-### 📈 GitHub Metrics
+### GitHub Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofidevo&theme=tokyonight" alt="Sofi's GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofidevo&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 <br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofidevo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-streak-stats.vercel.app/?user=sofidevo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ---
 
-### 📚 Latest Insights
+###  Latest Insights
 
 <div align="center">
   <a href="https://sofidev.blog/">
     <img src="https://img.shields.io/badge/Read_My_Dev_Blog-FF6B6B?style=for-the-badge&logo=hashnode&logoColor=white" alt="Dev Blog">
   </a>
-  <a href="https://gattetos.com/">
-    <img src="https://img.shields.io/badge/Read_Gattetos-FFB02E?style=for-the-badge&logo=probot&logoColor=white" alt="Cat Blog">
+  <a href="http://daily.sofidev.blog/">
+    <img src="https://img.shields.io/badge/Daily_Sofi-FFB02E?style=for-the-badge&logo=probot&logoColor=white" alt="Cat Blog">
   </a>
 </div>
 <br>
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 [Instalación automática de ZSH y Plugins](https://sofidev.blog/blog/instalacion-automatica-de-zsh-y-plugins)
-- 📝 [Instalar y conectar MySQL a WSL2](https://sofidev.blog/blog/instalar-mysql-wsl2)
-- 📝 [La evolución de Javascript](https://sofidev.blog/blog/evolucion-javascript)
-<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
-### 🌐 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sofidev">
