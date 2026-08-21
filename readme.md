@@ -9,10 +9,9 @@
   <a href="https://twitter.com/itssofidev">
     <img src="https://img.shields.io/twitter/follow/itssofidev?style=flat&logo=x&color=white&labelColor=white&logoColor=black" alt="X (Twitter) Follow" />
   </a>
-  <a href="https://www.youtube.com/@SofiDev">
-    <!-- Nota: Reemplaza YOUR_CHANNEL_ID por el ID real de tu canal para que el contador dinámico funcione -->
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC36_js-krsAHAEAWpEDhHtw?style=flat&logo=youtube&color=white&labelColor=white&logoColor=red" alt="YouTube Subscribers" />
-  </a>
+<a href="https://www.youtube.com/@SofiDev">
+  <img src="https://img.shields.io/badge/YouTube-SofiDev-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel" />
+</a>
   <a href="https://twitch.tv/sofidev">
     <img src="https://img.shields.io/twitch/status/sofidev?style=flat&logo=twitch&color=white&labelColor=white&logoColor=9146FF" alt="Twitch Status" />
   </a>
