@@ -65,7 +65,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofidevo&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 <br />
-<img src="https://github-readme-streak-stats.vercel.app/?user=sofidevo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ---
 
